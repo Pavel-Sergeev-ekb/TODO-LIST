@@ -6,8 +6,8 @@ import (
 
 	"github.com/go-chi/chi/v5"
 
-	"github.com/Pavel-Sergeev-ekb/todo-list/database"
-	"github.com/Pavel-Sergeev-ekb/todo-list/handlers"
+	"github.com/Pavel-Sergeev-ekb/TODO-LIST/database"
+	"github.com/Pavel-Sergeev-ekb/TODO-LIST/handlers"
 )
 
 func main() {
